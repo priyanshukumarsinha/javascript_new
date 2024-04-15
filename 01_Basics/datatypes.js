@@ -33,3 +33,5 @@ const myFunction = function(){
 }
 
 console.table([typeof score, typeof sccoreValue, typeof isLoggedIn, typeof outsideTemp, typeof userEmail, typeof id, typeof anotherID, typeof bigNumber, typeof heros, typeof myObj, typeof myFunction])
+
+// Stack (Primitive), Heap (Non-Primitive)
