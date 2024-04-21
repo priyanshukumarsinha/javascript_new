@@ -44,3 +44,24 @@ form.addEventListener('submit', function (e) {
 
 
 ```
+
+### Project 3
+
+```javascript
+
+const clock = document.querySelector('#clock');
+
+setInterval(function(){
+  const myTime = new Date();
+  clock.innerHTML = myTime.toLocaleTimeString();
+}, 1000)
+
+```
+
+### Project 4
+
+```javascript
+
+
+
+```
